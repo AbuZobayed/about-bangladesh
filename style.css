@@ -31,3 +31,36 @@
   border: none;
   margin-top: 15px;
 }
+.divission{
+  text-align: center;
+  width: 90%;
+  margin: auto;
+  padding: 50px;
+}
+.dhaka{
+  width: 300px;
+  border-radius: 5px;
+  box-shadow: 4px 4px 12px gray;
+}
+.photo img{
+  width: 100%;
+}
+.second-section{
+  padding: 10px;
+}
+.all-divistions{
+  display: flex;
+  justify-content:space-around;
+  
+}
+.description{
+  text-align: left;
+}
+
+.div-btn{
+  padding: 10px 30px;
+  border: none;
+  background-color: aqua;
+  font: 16px;
+
+}
