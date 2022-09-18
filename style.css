@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.top-text {
+  text-align: center;
+}
+.top-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flag img{
+    width: 400px;
+}
+
+.left-side{
+    width: 50%;
+}
